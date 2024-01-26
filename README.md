@@ -35,7 +35,8 @@ Ensure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone [repository_url]
+git clone [[repository_url]](https://github.com/yourusername/Queue-Simulation-Project.git
+)
 ```
 
 ## Usage
